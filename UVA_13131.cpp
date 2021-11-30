@@ -1,5 +1,5 @@
 ///BIJON SAHA DURJOY
-//SWE_19
+//SUST_SWE_19
 #include <bits/stdc++.h>
 using namespace std;
 int main()
